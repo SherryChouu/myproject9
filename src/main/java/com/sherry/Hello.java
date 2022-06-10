@@ -6,3 +6,4 @@ public class Hello {
         person.greeting();
     }
 }
+
